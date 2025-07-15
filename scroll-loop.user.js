@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  自动滚动到底部后刷新，回到顶部继续，循环进行。带有悬浮控制面板，显示运行时间和循环次数。
-// @match        https://nodeloc.cc/t/topic/32583/1428
+// @match        https://nodeloc.cc
 // @grant        none
 // ==/UserScript==
 
